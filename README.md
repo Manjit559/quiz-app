@@ -25,7 +25,6 @@ A fun and interactive **Quiz Application** 🎯 that lets users test their knowl
 ---
 
 ## 🚀 Setup & Usage  
-
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Manjit559/quiz-app.git
